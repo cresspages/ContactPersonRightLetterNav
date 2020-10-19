@@ -1,5 +1,5 @@
 # About this case
-这是一个结合angularjs的模拟手机端联系人右侧字母导航的案例，借助了汉字转拼音的插件，http://blog.haoji.me/pinyinjs.html。可修改少数代码即可脱离angularjs。
+这是一个结合angularjs的模拟手机端联系人右侧字母导航的案例，借助了汉字转拼音的插件（http://blog.haoji.me/pinyinjs.html）。  可修改少数代码即可脱离angularjs。
 
 ### Clone this Project
 
