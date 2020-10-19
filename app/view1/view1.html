@@ -1,0 +1,13 @@
+<p>This is the partial for view 1.</p>
+
+<!-- <div id="list_content">
+    <p ng-repeat="item in list" class="list-right-nav">{{ item.AAC003 }}</p>
+</div> -->
+
+<ul id="list_content">
+    <li ng-repeat="item in list" class="list-right-nav">{{ item.AAC003 }}
+        <p>{{ item.GTB030 }}</p>
+        <p>{{ item.TAC003 }}</p>
+        <p>{{ item.TAC002 }}</p>
+    </li>
+</ul>
